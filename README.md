@@ -1,5 +1,13 @@
 # VgmDesk 1.0 · 游戏音轨工作台
 
+[![build](https://github.com/umeabc/VgmDesk/actions/workflows/build.yml/badge.svg)](https://github.com/umeabc/VgmDesk/actions/workflows/build.yml)
+[![release](https://img.shields.io/github/v/release/umeabc/VgmDesk)](https://github.com/umeabc/VgmDesk/releases/latest)
+[![license](https://img.shields.io/github/license/umeabc/VgmDesk)](LICENSE)
+
+**[下载 Windows x64 免安装版](https://github.com/umeabc/VgmDesk/releases/latest)** · 完整解压后双击 `VgmDesk.exe`
+
+![VgmDesk 界面](dist/VgmDesk-preview.png)
+
 参照 [VGMGUI](https://github.com/BENICHN/VGMGUI) 的队列、试听和批量转换流程，独立实现的简体中文 Windows 桌面 GUI。免安装版内置 GitHub 于 2026-11-20 查询到的最新正式版 [vgmstream r2168](https://github.com/vgmstream/vgmstream/releases/tag/r2168)，直接运行 `vgmstream-cli.exe`，不用改名，也不需要 VLC 或另装 .NET。
 
 ## 开始使用
