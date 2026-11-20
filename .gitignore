@@ -1,0 +1,13 @@
+# build output
+src/bin/
+src/obj/
+tests/bin/
+tests/obj/
+
+# local downloads, fixtures and verification output
+.work/
+
+# release archives (published as GitHub Releases, not committed)
+dist/*.zip
+
+*.user
